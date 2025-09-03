@@ -8,11 +8,11 @@ This project enables stakeholders to track revenue growth, optimize storage and 
 
 Dashboard Features
 
-Sales by Location: Regional sales distribution across India
-Land Area by Location: Agricultural land dedicated to dairy farming by state
-Sales by Brand: Brand-wise contribution to total sales
-Quantity Sold by Customer Location: Customer demand across regions
-Shelf Life by Product: Average shelf life of dairy products such as Milk, Cheese, Butter, Yogurt, and Ghee
-Cow Population by Location: Correlation between livestock population and dairy output
-Max and Min Shelf Life: Product-level comparison of shelf stability
-Shelf Life by Storage Type: Storage methods (Ambient, Frozen, Refrigerated, etc.) and their impact on product shelf life
+Sales by Location: Regional sales distribution across India,
+Land Area by Location: Agricultural land dedicated to dairy farming by state,
+Sales by Brand: Brand-wise contribution to total sales,
+Quantity Sold by Customer Location: Customer demand across regions,
+Shelf Life by Product: Average shelf life of dairy products such as Milk, Cheese, Butter, Yogurt, and Ghee,
+Cow Population by Location: Correlation between livestock population and dairy output,
+Max and Min Shelf Life: Product-level comparison of shelf stability,
+Shelf Life by Storage Type: Storage methods (Ambient, Frozen, Refrigerated, etc.) and their impact on product shelf life.
